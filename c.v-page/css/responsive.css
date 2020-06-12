@@ -98,7 +98,13 @@ textarea{
                     float: none;
                     margin-right: 30px;
                 }
+/*************************
+        HOBBY STYLES
+***************************/
 
+.top-list {
+    margin: 2%;
+ }
 
             }
     /**==================
@@ -111,13 +117,7 @@ textarea{
                 hr {
                     width: 22%;
                 }
-/*************************
-        HOBBY STYLES
-***************************/
 
-.top-list {
-    margin: 2%;
- }
 
            
             }
