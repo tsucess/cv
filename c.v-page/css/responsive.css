@@ -21,10 +21,10 @@
     
        
     }
-        /**==================
+   /**==================
     Mediaquery 1024px
     =====================*/
-        @media screen and ( max-width:1024px) {
+ @media screen and ( max-width:1024px) {
             .top-div {
                 width: 80%;
             }
@@ -34,30 +34,29 @@
           
         }
 
-
-        /*************************
+/*************************
         CONTACT STYLES
 ***************************/
 
 textarea{
     width: 70%;
 }
-            /**==================
+    /**==================
     Mediaquery 768px
     =====================*/
-            @media screen and ( max-width:768px) {
+    @media screen and ( max-width:768px) {
                 .top-div {
                     width: 90%;
                 }
                 hr {
                     width: 12%;
                 }
-                /*************************
+/*************************
         HOBBY STYLES
 ***************************/
 
 .top-list {
-    margin: 5%;
+    margin: 2%;
  }
  
 
@@ -82,8 +81,8 @@ textarea{
     /**==================
     Mediaquery 425px
     =====================*/
-            @media screen and ( max-width:425px) {
-                body {
+@media screen and ( max-width:425px) {
+           body {
                     font-size: 1.2rem;
                 }
                 hr {
@@ -105,8 +104,8 @@ textarea{
     /**==================
     Mediaquery 375px
     =====================*/
-            @media screen and ( max-width:375px) {
-                body {
+@media screen and ( max-width:375px) {
+             body {
                     font-size: 1rem;
                 }
                 hr {
@@ -114,10 +113,10 @@ textarea{
                 }
            
             }
-            /**==================
+    /**==================
     Mediaquery 320px
     =====================*/
-            @media screen and ( max-width:320px) {
+    @media screen and ( max-width:320px) {
                 body {
                     font-size: 0.9rem;
                 }
