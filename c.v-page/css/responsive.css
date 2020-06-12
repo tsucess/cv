@@ -98,6 +98,11 @@ textarea{
                     float: none;
                     margin-right: 30px;
                 }
+    .divider {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin: 0.5rem;
+}
 /*************************
         HOBBY STYLES
 ***************************/
