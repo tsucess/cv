@@ -1,0 +1,136 @@
+/**==================
+    Mediaquery 1840px
+    =====================*/
+
+@media screen and ( max-width:1440px) {
+    .top-div {
+        width: 60%;
+    }
+    hr {
+        width: 6%;
+    }
+
+}
+    /**==================
+    Mediaquery 1240px
+    =====================*/
+    @media screen and ( max-width:1240px) {
+        .top-div {
+            width: 70%;
+        }
+    
+       
+    }
+        /**==================
+    Mediaquery 1024px
+    =====================*/
+        @media screen and ( max-width:1024px) {
+            .top-div {
+                width: 80%;
+            }
+            hr {
+                width: 9%;
+            }
+          
+        }
+
+
+        /*************************
+        CONTACT STYLES
+***************************/
+
+textarea{
+    width: 70%;
+}
+            /**==================
+    Mediaquery 768px
+    =====================*/
+            @media screen and ( max-width:768px) {
+                .top-div {
+                    width: 90%;
+                }
+                hr {
+                    width: 12%;
+                }
+                /*************************
+        HOBBY STYLES
+***************************/
+
+.top-list {
+    margin: 5%;
+ }
+ 
+
+ /*************************
+        CONTACT STYLES
+***************************/
+label{
+    display: block;
+}
+input {
+    display: inline-block;
+    margin: 5px;
+    width: 85%;
+
+}
+textarea{
+    width: 90%;
+}
+
+               
+            }
+    /**==================
+    Mediaquery 425px
+    =====================*/
+            @media screen and ( max-width:425px) {
+                body {
+                    font-size: 1.2rem;
+                }
+                hr {
+                    width: 20%;
+                }
+               
+                .top-div {
+                    text-align: center;
+                }
+                
+                .display-pic {
+                    width: 95%;
+                    float: none;
+                    margin-right: 30px;
+                }
+
+
+            }
+    /**==================
+    Mediaquery 375px
+    =====================*/
+            @media screen and ( max-width:375px) {
+                body {
+                    font-size: 1rem;
+                }
+                hr {
+                    width: 22%;
+                }
+           
+            }
+            /**==================
+    Mediaquery 320px
+    =====================*/
+            @media screen and ( max-width:320px) {
+                body {
+                    font-size: 0.9rem;
+                }
+                hr {
+                    margin: 20px auto;
+                    width: 25%;
+                }
+                input {
+                    display: block;
+                }
+
+                #btn {
+                    margin: 10px auto;
+                }
+     
+            }
