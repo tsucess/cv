@@ -89,21 +89,22 @@
         margin: 20px auto 40px;
     }
     .btn {
-        font-size: 0.75rem;
+        font-size: 15px;
     }
     .middle-container {
         margin: 50px 0;
     }
     .bottom-container {
         padding: 20px 0;
-        line-height: 2;
+        line-height: 3;
+    }
+    .bottom-container a{
+        margin: 0 1.2rem;
     }
     .copyright {
-        font-size: 0.9rem;
+        font-size: 1rem;
     }
-    .bottom-container a {
-        font-size: 1.2rem;
-    }
+    
 }
 
 /**==================
@@ -132,12 +133,7 @@
     .skill-image {
         height: 320px;
     }
-    .bottom-container a {
-        display: block;
-        font-size: 1.2rem;
-        padding: 5px 0;
-        line-height: 1.5;
-    }
+    
 }
 
 /**==================
@@ -153,6 +149,7 @@
         bottom: 140px;
         left: 20px;
         margin: 5px 0;
+        width: 100px;
     }
     .moutain {
         margin-top: 20px;
@@ -160,6 +157,7 @@
     .skill-image {
         height: 300px;
     }
+   
 }
 
 /**==================
@@ -173,6 +171,15 @@
     }
     .skill-image {
         height: 260px;
+    }
+    .btn {
+        font-size: 14px;
+        padding: 5px;
+        width: 30px;
+    }
+    .divider {
+        font-size: 1.4rem;
+        margin: 0.2rem;
     }
    
     .copyright {
